@@ -1,0 +1,274 @@
+@media screen and (max-width: 1365px){
+	.header__title{
+		font-size: 21px;
+		letter-spacing: 2.1px;
+		margin: 38px 0 30px;
+	}
+
+	.navigation{
+		width: 480px;
+	}
+
+	.links__item:not(:first-child):before{
+		left: -22px;
+		top: 5px;
+	}
+
+	.banner{
+		padding: 50px 0 0 0;
+		min-height: 368px;
+	}
+
+	.banner__comment{
+		margin: 34px 0 46px 0;
+	}
+
+	.links{
+		font-size: 14px;
+		letter-spacing: 1.4px;
+	}
+
+	.banner__subtitle-main{
+		font-size: 60px;
+		letter-spacing: 6px;
+	}
+
+	.banner__comment{
+		font-size: 20px;
+		letter-spacing: 2px;
+	}
+
+	.history{
+		min-height: 1102px;
+		padding: 48px 0 0 0;
+	}
+
+	.history__container{
+		max-width: 500px;
+	}
+
+	.history__comment{
+		letter-spacing: 1.8px;
+		margin: 13px 0 0 0;
+	}
+
+	.history__paragraph{
+		margin: 0 0 50px 0;
+	}
+
+	.history__images{
+		width: 100%;
+		height: 636px;
+		margin: 0 auto;
+	}
+
+	.history__image_1{
+		top: 354px;
+		left: 9px;
+		width: 342px;
+		height: 230px;
+	}
+
+	.history__image_2{
+		top: 168px;
+		left: 224px;
+		width: 266px;
+		height: 342px;
+	}
+
+	.history__image_3{
+		top: 53px;
+    	left: 40px;
+    	width: 295px;
+    	height: 342px;
+	}
+
+	.cupcakes{
+		padding: 85px 0 70px 0;
+		background-size: cover;
+	}
+
+	.cupcakes:before{
+		bottom: 0;
+	}
+
+	.cupcakes__line{
+		max-width: 500px;
+	}
+
+	.cupcakes__list{
+		grid-template-columns: 1fr 1fr;
+		grid-template-rows: 1fr 1fr 1fr;
+		grid-gap: 15px 20px;
+		max-width: 480px;
+		margin: 40px auto 65px;
+	}
+
+	.filling__ul{
+		flex-wrap: wrap;
+		justify-content: center;
+		margin: 32px 0 0 0;
+	}
+
+	.filling__choise{
+		margin: 15px 0;
+		display: block;
+	}
+
+	.cupcakes__first{
+		width: 230.2px;
+		height: 340.7px;
+	}
+
+	.cupcakes__second{
+		width: 230.2px;
+		height: 340.7px;
+	}
+
+	.cupcakes__third{
+		width: 230.2px;
+		height: 340.7px;
+	}
+
+	.cupcakes__fourth{
+		width: 230.2px;
+		height: 340.7px;
+	}
+
+	.cupcakes__fifth{
+		width: 230.2px;
+		height: 340.7px;
+	}
+
+	.cupcakes__choise_list:before{
+		width: 230px;
+		height: 340px;
+	}
+
+	.cupcakes__name{
+		font-size: 14px;
+		line-height: 18.5px;
+		letter-spacing: 1.4px;
+		padding: 10px 0 24px 20px;
+	}
+
+	.cupcakes__button{
+		position: relative;
+	}
+
+	.blog{
+		padding: 55px 0 0 0;
+		height: 1600px;
+	}
+
+	.subtitle-grey{
+		margin: 0 auto;
+	}
+
+	.display{
+	height: 1302px;
+	}
+
+	.display__column{
+		grid-gap: 0 12px;
+	}
+
+	.display__inf{
+		width: 480px;
+		margin: 0 auto;
+	}
+
+	.display__shop{
+		margin: 45px 0 20px 0;
+	}
+
+	.display__img{
+		width: 210px;
+		height: 145px;
+	}
+
+	.display__image{
+		width: 480px;
+		height: 227px;
+		background-size: contain;
+	}
+
+	.display__paragraph{
+		max-width: 543px;
+		line-height: 1.8;
+		margin: 2px auto 32px;
+	}
+
+	.display__news{
+		margin: 0 auto;
+		width: 480px;
+	}
+
+	.display__late{
+		margin: 51px 0 17px 0;
+	}
+
+	.display__flex:nth-child(odd){
+		margin: 0 20px 0 0;
+	}
+
+	.display__size{
+		margin: 0;
+	}
+
+	.display__date{
+		margin: 6px auto 0;
+	}
+
+	.display__article{
+		text-align: left;
+	}
+
+	.display__person{
+		margin: 0 0 24px 0;
+	}
+
+	.questions{
+		height: 1028px;
+		padding: 10px 0 0 0;
+	}
+
+	.questions__text{
+		font-size: 60px;
+		width: 483px;
+		min-height: 307px;
+		text-align: center;
+		margin: 49px auto 0;
+	}
+
+	.form{
+		width: 501px;
+		height: 590px;
+		margin: 0 auto;
+	}
+
+	.form__answer{
+		margin: 0 0 11px 0;
+		padding: 38px 0 0 0;
+	}
+
+	.face{
+		width: 300px;
+	}
+
+	.label{
+		padding: 0 0 0 28px;
+	}
+
+	.footer{
+		margin: 42px auto 0;
+		display: flex;
+		flex-direction: column-reverse;
+		text-align: center;
+		width: 60%;
+	}
+
+	.footer__city{
+		margin: 36px 0;
+	}
+}
